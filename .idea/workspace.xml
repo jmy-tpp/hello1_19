@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="708dfb3a-11fd-4855-8541-db1fa946580c" name="Default Changelist" comment="2020.1.19">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello1_19_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hello1_19_2/jmy1_19/Hello1_19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jmy1_19/Hello1_19.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="/usr/local/apache-maven-3.6.3/repository" />
+        <option name="mavenHome" value="/usr/local/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WbOnDTIlI3gQVIp1JDimiaUiVL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Hello1_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jmy1_19.Hello1_19" />
+      <module name="Hello1_19_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jmy1_19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hello1_19" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="708dfb3a-11fd-4855-8541-db1fa946580c" name="Default Changelist" comment="" />
+      <created>1579414992179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579414992179</updated>
+      <workItem from="1579414993510" duration="2654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2020.1.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.1.19" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="56" y="156" key="CommitChangelistDialog2" timestamp="1579418475461">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="56" y="156" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1579418475461" />
+    <state width="1358" height="245" key="GridCell.Tab.0.bottom" timestamp="1579415736980">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1358" height="245" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1579415736980" />
+    <state width="1358" height="245" key="GridCell.Tab.0.center" timestamp="1579415736979">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1358" height="245" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1579415736979" />
+    <state width="1358" height="245" key="GridCell.Tab.0.left" timestamp="1579415736978">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1358" height="245" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1579415736978" />
+    <state width="1358" height="245" key="GridCell.Tab.0.right" timestamp="1579415736979">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1358" height="245" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1579415736979" />
+    <state x="105" y="205" key="SettingsEditor" timestamp="1579417820715">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="105" y="205" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1579417820715" />
+    <state x="105" y="205" key="SettingsEditor/0.23.1680.961@0.23.1680.961" timestamp="1579416864268" />
+  </component>
+</project>
