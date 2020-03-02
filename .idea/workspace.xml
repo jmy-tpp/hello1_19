@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="708dfb3a-11fd-4855-8541-db1fa946580c" name="Default Changelist" comment="2020.1.19">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jmy1_19/Hello1_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jmy1_19/Hello1_19.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -75,6 +76,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hello1_19" />
+        <item itemvalue="Application.Hello1_19" />
+        <item itemvalue="Application.Hello1_19" />
         <item itemvalue="Application.Hello1_19" />
       </list>
     </recent_temporary>
@@ -135,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582625007968</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2020.1.19">
+      <created>1582905398347</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582905398347</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,13 +176,13 @@
     </state>
     <state x="869" y="321" key="#xdebugger.evaluate/0.23.1680.947@0.23.1680.947" timestamp="1581995819949" />
     <state x="869" y="322" key="#xdebugger.evaluate/0.23.1680.949@0.23.1680.949" timestamp="1581997047566" />
-    <state x="455" y="123" key="CommitChangelistDialog2" timestamp="1582626083813">
-      <screen x="0" y="23" width="1680" height="956" />
+    <state x="455" y="122" key="CommitChangelistDialog2" timestamp="1583147804889">
+      <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state x="455" y="122" key="CommitChangelistDialog2/0.23.1680.947@0.23.1680.947" timestamp="1581923285689" />
-    <state x="455" y="122" key="CommitChangelistDialog2/0.23.1680.949@0.23.1680.949" timestamp="1581927792201" />
+    <state x="455" y="122" key="CommitChangelistDialog2/0.23.1680.949@0.23.1680.949" timestamp="1583147804889" />
     <state x="455" y="123" key="CommitChangelistDialog2/0.23.1680.956@0.23.1680.956" timestamp="1582626083813" />
-    <state x="56" y="156" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1579418512178" />
+    <state x="369" y="134" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1582905398154" />
     <state width="1358" height="304" key="GridCell.Tab.0.bottom" timestamp="1582002611886">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
@@ -237,18 +248,22 @@
     </state>
     <state x="105" y="205" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1579417820715" />
     <state x="105" y="205" key="SettingsEditor/0.23.1680.961@0.23.1680.961" timestamp="1579416864268" />
-    <state x="461" y="289" key="Vcs.Push.Dialog.v2" timestamp="1582625014230">
-      <screen x="0" y="23" width="1680" height="956" />
+    <state x="461" y="319" key="Vcs.Push.Dialog.v2" timestamp="1582905508035">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="461" y="286" key="Vcs.Push.Dialog.v2/0.23.1680.947@0.23.1680.947" timestamp="1581923377754" />
     <state x="461" y="287" key="Vcs.Push.Dialog.v2/0.23.1680.949@0.23.1680.949" timestamp="1581927799096" />
     <state x="461" y="317" key="Vcs.Push.Dialog.v2/0.23.1680.952@0.23.1680.952" timestamp="1581659696689" />
     <state x="461" y="289" key="Vcs.Push.Dialog.v2/0.23.1680.956@0.23.1680.956" timestamp="1582625014230" />
-    <state x="461" y="319" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1579420011286" />
+    <state x="461" y="319" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1582905508035" />
     <state x="496" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1581993966499">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state x="496" y="340" key="com.intellij.ide.util.TipDialog/0.23.1680.947@0.23.1680.947" timestamp="1581993966499" />
+    <state x="598" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582905754330">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="598" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.960@0.23.1680.960" timestamp="1582905754330" />
     <state x="546" y="305" key="git4idea.merge.GitPullDialog" timestamp="1581924150432">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
